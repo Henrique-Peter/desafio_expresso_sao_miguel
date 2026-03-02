@@ -10,6 +10,8 @@ Este projeto analisa dados operacionais da Expresso São Miguel (logística na r
 
 O objetivo foi entender padrões de operação, concentração de volume, diferenças estruturais entre grupos de clientes e implicações comerciais/operacionais do desconto aplicado.
 
+Os dados foram disponibilizados por meio de três arquivos .csv, e seguindo as melhores práticas, não serão carregados no repositório.
+
 
 ## Principais achados consolidados
 
